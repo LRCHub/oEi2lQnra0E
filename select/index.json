@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ICHIDAIJI",
+  "base_artist": "Polkadot Stingray",
+  "createdAt": "2025-12-02T19:42:59.045890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ichidaiji",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/01_Ichidaiji_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ICHIDAIJI",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/02_ICHIDAIJI_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ICHIDAIJI",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_ICHIDAIJI_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ichidaiji",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/04_Ichidaiji_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ICHIDAIJI",
+      "artist": "Polkadot Stingray (ポルカドットスティングレイ)",
+      "has_synced": true,
+      "path": "select/05_ICHIDAIJI_Polkadot_Stingray_(ポルカドットスティングレイ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ICHIDAIJI",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_ICHIDAIJI_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ICHIDAIJI",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_02_ICHIDAIJI_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ICHIDAIJI",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_03_ICHIDAIJI_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ICHIDAIJI",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_04_ICHIDAIJI_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ICHIDAIJI",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_05_ICHIDAIJI_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
